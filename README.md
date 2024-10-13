@@ -20,15 +20,18 @@ The code doesn’t just make a flat picture. It builds a 3D universe where you c
 Add Randomness (Noise):
 
 To make things more fun and less predictable, we add a bit of random noise to make each part of the universe a little different from the rest.
+
 Interactive Controls:
 
 You can move around the universe and zoom in/out on different parts to see the fractals from different angles.
 There are sliders to change the azimuth (left/right view), elevation (up/down view), and complexity (how detailed the fractal is).
 Key Parts of the Code
+
 Mandelbrot Function:
 
 This part of the code is like a set of instructions that tells the computer how to create the fractal. It checks each dot on the screen and asks, “Does this dot follow the Mandelbrot rule?”
 If it follows the rule, it stays. If not, the computer stops and moves on to the next dot.
+
 UniverseSimulation Class:
 
 This is like the “control center” of the universe. It uses the Mandelbrot function to create the universe, then adds depth to make it 3D.
@@ -39,22 +42,27 @@ There are three sliders that let you control how you look at the universe:
 Azimuth: Moves your view left or right.
 Elevation: Moves your view up or down.
 Complexity: Adjusts how detailed or “crazy” the fractals are.
+
 How to Use the Code:
+
 Install the Required Packages:
 
 This is the first step to run the simulation. The code installs everything needed to draw the universe.
 Run the Code:
 
 After setting everything up, the code generates a fractal universe based on the Mandelbrot Set.
+
 Interact with Sliders:
 
 Use the sliders to explore the universe:
 Move around the 3D universe by changing the azimuth and elevation.
 Make the universe more or less detailed by adjusting the complexity slider.
+
 Enjoy the View!:
 
 The code creates a stunning 3D picture of a fractal universe. You can sit back and enjoy the beauty of infinite patterns.
 Key Terms Explained
+
 Mandelbrot Set: A special formula that makes shapes look like they repeat over and over, no matter how close you look. It’s a famous example of fractals.
 
 Fractal: A never-ending pattern that looks the same, no matter how much you zoom in. Kind of like a snowflake, but more complicated.
