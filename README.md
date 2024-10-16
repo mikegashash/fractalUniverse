@@ -18,6 +18,7 @@ The Mandelbrot Set is a mathematical formula that makes neat patterns. It helps 
 3D Plotting:
 
 The code doesn’t just make a flat picture. It builds a 3D universe where you can see different layers of these patterns, as if they are floating in space!
+
 Add Randomness (Noise):
 
 To make things more fun and less predictable, we add a bit of random noise to make each part of the universe a little different from the rest.
