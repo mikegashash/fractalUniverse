@@ -27,6 +27,7 @@ Interactive Controls:
 
 You can move around the universe and zoom in/out on different parts to see the fractals from different angles.
 There are sliders to change the azimuth (left/right view), elevation (up/down view), and complexity (how detailed the fractal is).
+
 Key Parts of the Code
 
 Mandelbrot Function:
@@ -38,11 +39,15 @@ UniverseSimulation Class:
 
 This is like the “control center” of the universe. It uses the Mandelbrot function to create the universe, then adds depth to make it 3D.
 It also controls how the universe looks, using something called a color map to make it pretty.
+
 Sliders:
 
 There are three sliders that let you control how you look at the universe:
+
 Azimuth: Moves your view left or right.
+
 Elevation: Moves your view up or down.
+
 Complexity: Adjusts how detailed or “crazy” the fractals are.
 
 How to Use the Code:
@@ -50,7 +55,10 @@ How to Use the Code:
 Install the Required Packages:
 
 This is the first step to run the simulation. The code installs everything needed to draw the universe.
+
 Run the Code:
+
+Simply copy and paste the single code file into a Google Colab Jupyter notedbook (https://colab.research.google.com/). This is progammed to use the native python libraries Colab already supports. 
 
 After setting everything up, the code generates a fractal universe based on the Mandelbrot Set.
 
@@ -63,6 +71,7 @@ Make the universe more or less detailed by adjusting the complexity slider.
 Enjoy the View!:
 
 The code creates a stunning 3D picture of a fractal universe. You can sit back and enjoy the beauty of infinite patterns.
+
 Key Terms Explained
 
 Mandelbrot Set: A special formula that makes shapes look like they repeat over and over, no matter how close you look. It’s a famous example of fractals.
