@@ -2,6 +2,7 @@
 Simulate a universe in python code simply enough that it can run in browser on google colab. 
 
 Introduction
+
 This project is a Cosmic Fractal Universe Simulation that generates beautiful 3D fractal structures using something called the Mandelbrot Set. Don’t worry if you don’t know what that is! Think of it like a magical way to create colorful, crazy patterns that stretch on forever!
 
 You can control the view of the simulation, change how complex it is, and even zoom in to see different parts of the fractal universe. The simulation is interactive and lets you explore how these patterns grow and evolve in 3D space.
